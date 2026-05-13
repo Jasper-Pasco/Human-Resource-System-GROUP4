@@ -7,12 +7,13 @@ A full-stack Human Resource System built with React, Supabase, and TanStack Rout
 
 ## 👥 Team Members & Roles
 
-| Member | Role | Responsibilities |
-|--------|------|-----------------|
-| M1 | Project Lead / DevOps | Repo setup, CI/CD, deployment, Supabase project config |
-| M2 | Frontend Developer | All UI pages, components, rights-gated buttons, responsive design |
-| M3 | Backend / Database | Supabase schema, RLS policies, triggers, seed data |
-| M4 | Auth & Rights | Supabase Auth, AuthContext, UserRightsContext, useRights() hook |
+| Member | Name | Role | Responsibilities |
+|--------|------|------|-----------------|
+| M1 | Kyle Coles | Project Lead / DevOps | Repo setup, CI/CD, deployment, Supabase project config |
+| M2 | Jasper M. Pasco | Frontend Developer | All UI pages, components, rights-gated buttons, responsive design |
+| M3 | Franz Gabriel A. Tuzon | DB Engineer | Supabase schema, RLS policies, triggers, seed data |
+| M4 | Daj Andrei Bernardino | Rights & Authentication Specialist | Supabase Auth, AuthContext, UserRightsContext, useRights() hook |
+| M5 | Habibiy Yasin | QA / Documentation | Testing, quality assurance, project documentation |
 
 ---
 
